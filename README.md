@@ -12,12 +12,11 @@ The scripts require <a href="https://github.com/wassimj/topologicpy">topologicpy
 Related papers
 ----------------------
 
-Xue, Y., Jabi, W., Woolley, T. E. and Kaouri, K. 2024. VIRIS: Simulating indoor viral transmission combining architectural design and people movement, submitted.
-Jabi, W., Xue, Y., Woolley, T. E. and Kaouri, K. 2024. 3D Topological Modeling and Multi-Agent Movement Simulation for Viral Infection Risk Analysis, submitted.
-Lau, Z, Griffiths, I. M., English, A. and Kaouri, K. 2022. Predicting the spatio-temporal infection risk in indoor spaces using an efficient airborne transmission model, *Proceedings of the Royal Society A*, **478**: 20210383. https://doi.org/10.1098/rspa.2021.0383.
-Moore, J. W., Lau, Z., Kaouri, K., Dale, T. C. and Woolley, T. E. 2021. A General Computational Framework for COVID-19 Modelling with Applications to Testing Varied Interventions in Education Environments, *COVID*, **1**(4), pp.674-703. https://doi.org/10.3390/covid1040055.
-Harper, P. R., Moore, J. W. and Woolley, T. E. 2021. Covid-19 transmission modelling of students returning home from university.
-*Health Systems*. **10**, pp.31-40, https://doi.org/10.1080/20476965.2020.1857214.
+Xue, Y., Jabi, W., Woolley, T. E. and Kaouri, K. 2024. VIRIS: Simulating indoor viral transmission combining architectural design and people movement, submitted.  
+Jabi, W., Xue, Y., Woolley, T. E. and Kaouri, K. 2024. 3D Topological Modeling and Multi-Agent Movement Simulation for Viral Infection Risk Analysis, submitted.  
+Lau, Z, Griffiths, I. M., English, A. and Kaouri, K. 2022. Predicting the spatio-temporal infection risk in indoor spaces using an efficient airborne transmission model, *Proceedings of the Royal Society A*, **478**: 20210383. https://doi.org/10.1098/rspa.2021.0383.  
+Moore, J. W., Lau, Z., Kaouri, K., Dale, T. C. and Woolley, T. E. 2021. A General Computational Framework for COVID-19 Modelling with Applications to Testing Varied Interventions in Education Environments, *COVID*, **1**(4), pp.674-703. https://doi.org/10.3390/covid1040055.  
+Harper, P. R., Moore, J. W. and Woolley, T. E. 2021. Covid-19 transmission modelling of students returning home from university. *Health Systems*. **10**, pp.31-40, https://doi.org/10.1080/20476965.2020.1857214.
 
 
 About us
