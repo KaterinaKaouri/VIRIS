@@ -1,7 +1,7 @@
 # VIRIS
 Welcome to VIRIS - Viral Infection Risk Simulator! This repository includes all materials for VIRIS and the associated web app. VIRIS is a powerful simulator that can quickly assess and compare non-pharmaceutical interventions (NPIs) for airborne diseases, in diverse indoor spaces. The simulator combines people movement, viral transmission modelling, and detailed architectural design. The web app for VIRIS can be accessed at https://viris.app (available soon).
 
-The jupyter notebooks for different case studies/scenarios are included in separate folders. For each case study, there are two steps: step 1 - specifying the architectural design; step 2 - specifying people movement and step 3 - determining viral transmission (concentration of the virus and infection risk). The architectural design and people movement are powered by <a href="https://github.com/wassimj/topologicpy">topologicpy</a>. (The API documentation of topologypy can be found at https://topologicpy.readthedocs.io/.)
+The jupyter notebooks for different case studies/scenarios are included in separate folders. For each case study, there are three main steps: step 1 - specifying the architectural design; step 2 - specifying people movement and step 3 - determining viral transmission (concentration of the virus and infection risk). The architectural design and people movement are powered by <a href="https://github.com/wassimj/topologicpy">topologicpy</a>. (The API documentation of topologypy can be found at https://topologicpy.readthedocs.io/.)
 
 Prerequisites
 -------------
