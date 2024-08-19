@@ -3,6 +3,8 @@ Welcome to VIRIS - Viral Infection Risk Simulator! This repository includes all 
 
 The jupyter notebooks for different case studies/scenarios are included in separate folders. For each case study, there are three main steps: step 1 - specifying the architectural design; step 2 - specifying people movement and step 3 - determining viral transmission (concentration of the virus and infection risk). The architectural design and people movement are powered by <a href="https://github.com/wassimj/topologicpy">topologicpy</a>. (The API documentation of topologypy can be found at https://topologicpy.readthedocs.io/.)
 
+This project is licensed under the terms of the AGPL-3.0 license.
+
 Prerequisites
 -------------
 
