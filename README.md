@@ -14,7 +14,7 @@ The scripts require <a href="https://github.com/wassimj/topologicpy">topologicpy
 Related papers and other resources
 ----------------------------------
 
-* Xue, Y., Jabi, W., Woolley, T. E. and Kaouri, K. 2024. VIRIS: Simulating indoor viral transmission combining architectural design and people movement, submitted.  
+* Xue, Y., Jabi, W., Woolley, T. E. and Kaouri, K. 2024. Modelling indoor airborne transmission combining architectural design and people movement using the VIRIS simulator and web app, *Scientific Reports*, **14**, 28220. https://doi.org/10.1038/s41598-024-79525-6.  
 * Jabi, W., Xue, Y., Woolley, T. E. and Kaouri, K. 2024. 3D Topological modeling and multi-agent movement simulation for viral infection risk analysis, submitted.  
 * Lau, Z, Griffiths, I. M., English, A. and Kaouri, K. 2022. Predicting the spatio-temporal infection risk in indoor spaces using an efficient airborne transmission model, *Proceedings of the Royal Society A*, **478**, 20210383. https://doi.org/10.1098/rspa.2021.0383.  
 * Moore, J. W., Lau, Z., Kaouri, K., Dale, T. C. and Woolley, T. E. 2021. A General computational framework for COVID-19 modelling with applications to testing varied interventions in education environments, *COVID*, **1**(4), pp.674-703. https://doi.org/10.3390/covid1040055.  
